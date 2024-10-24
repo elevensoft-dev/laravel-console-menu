@@ -26,7 +26,7 @@
         "php": "^8.1",
         "illuminate/console": "^9.0|^10.0|^11.0",
         "illuminate/support": "^9.0|^10.0|^11.0",
-        "php-school/cli-menu": "^4.3"
+        "php-school/cli-menu": "dev-master"
     },
     "autoload": {
         "psr-4": {
